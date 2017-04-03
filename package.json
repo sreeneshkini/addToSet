@@ -1,0 +1,15 @@
+{
+  "name": "addtoset",
+  "version": "0.0.1",
+  "description": "Utility array function to add value to array if doesn't exist",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "addtoset",
+    "array"
+  ],
+  "author": "Kailash K Yogeshwar",
+  "license": "ISC"
+}
