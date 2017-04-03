@@ -6,10 +6,21 @@
   "scripts": {
     "test": "npm test"
   },
+  "repository":{
+     "type": "git",
+     "url": "https://github.com/kailashyogeshwar85/addToSet.git"
+  },
+  "bugs": {
+    "url" : "https://github.com/kailashyogeshwar85/addToSet.git/issues",
+    "email": "kailashyogeshwar85@gmail.com"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
   "keywords": [
     "addtoset",
     "array"
   ],
-  "author": "Kailash K Yogeshwar",
+  "author": "Kailash K Yogeshwar kailashyogeshwar85@gmail.com",
   "license": "ISC"
 }
