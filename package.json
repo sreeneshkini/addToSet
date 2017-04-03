@@ -1,17 +1,17 @@
 {
   "name": "addtoset",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Utility array function to add value to array if doesn't exist",
   "main": "index.js",
   "scripts": {
     "test": "npm test"
   },
-  "repository":{
-     "type": "git",
-     "url": "https://github.com/kailashyogeshwar85/addToSet.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kailashyogeshwar85/addToSet.git"
   },
   "bugs": {
-    "url" : "https://github.com/kailashyogeshwar85/addToSet.git/issues",
+    "url": "https://github.com/kailashyogeshwar85/addToSet.git/issues",
     "email": "kailashyogeshwar85@gmail.com"
   },
   "engines": {
