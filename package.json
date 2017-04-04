@@ -1,6 +1,6 @@
 {
   "name": "addtoset",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Utility array function to add value to array if doesn't exist",
   "main": "index.js",
   "scripts": {
