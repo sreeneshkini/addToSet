@@ -21,7 +21,7 @@ let arr = [1,2,3,4,5];
 arr = set.push(arr, 6); // [1,2,3,4,5,6]
 arr = set.push(arr, 1); // [1,2,3,4,5]
 
-// Error if parameter is not array
+// Error if parameter is not an array
 let str = "msg";
 
 set.push(str,1); // Error: Source must be array 
