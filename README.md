@@ -1,7 +1,7 @@
 &copy; ,Kailash Yogeshwar, Licensed under MIT-License
 
 # addToSet
-A library to add an element to array set if doesn't already exist else return the source array. 
+A library to add an element to array set if        doesn't already exist else return the source array. 
 
 # Install
 ```bash
