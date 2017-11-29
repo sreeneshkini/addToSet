@@ -27,4 +27,4 @@ let str = "msg";
 set.push(str,1); // Error: Source must be array 
 ```
 
-Thank you. Happy Coding
+Thank you. Happy Coding :)
