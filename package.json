@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "NODE_ENV=test npm test",
-    "coverage": "istanbul"
+    "coverage": "istanbul tests/**/*"
   },
   "repository": {
     "type": "git",
